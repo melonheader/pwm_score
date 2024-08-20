@@ -1,0 +1,6 @@
+track type=wiggle_0 name="motif2.pwm"
+variableStep chrom=chr2 span=7
+1365	1.0
+1366	0.020579816903596112
+1369	0.0679361070677352
+1370	1.0
